@@ -1,49 +1,19 @@
-# 🔐 Authentication in Cybersecurity (CNS)
-
-This repository contains my video presentation on **Authentication in Cybersecurity**, created as part of the **Cryptography and Network Security (CNS)** subject/activity.
-
----
+This video is based on the topic "Cryptography and Network Security in the Digital Era".
 
 ## 🎥 Video Presentation
-Watch the presentation here:  
-https://youtu.be/6naFq5GxUfI
+Watch the video here: https://youtu.be/6naFq5GxUfI
 
----
+In this presentation, I have explained how data is protected in today’s digital world using cryptography and network security techniques. The video covers basic concepts in a simple way, making it easy to understand for students and beginners.
 
-## 📚 Topics Covered
-- Introduction to Authentication  
-- Authentication vs Authorization  
-- Types of Authentication (SFA, 2FA, MFA)  
-- Authentication Factors  
-- Authentication Methods  
-- Role of Authentication in Network Security  
-- Common Authentication Attacks  
-- Authentication Best Practices  
+Topics covered in this video:
+• Introduction to Cryptography and Network Security  
+• Types of Cryptography (Symmetric, Asymmetric, Hashing)  
+• Network Security Concepts  
+• CIA Triad (Confidentiality, Integrity, Availability)  
+• Security Tools (Firewall, IDS, IPS, VPN)  
+• Common Cyber Threats  
+• Best Practices  
 
----
+This video helps in understanding how secure communication and data protection work in the digital era.
 
-## 🎯 Objective
-The objective of this project is to explain authentication concepts in cybersecurity and their significance in **Cryptography and Network Security**, with focus on protecting systems, networks, and sensitive data.
-
----
-
-## 🛠 Tools Used
-- Microsoft PowerPoint  
-- Screen Recording Software (OBS Studio / Equivalent)  
-- YouTube (Video Hosting)  
-
----
-
-## 📌 Learning Outcome
-Through this project, I improved my understanding of:
-- Authentication mechanisms in cybersecurity  
-- Security principles in network protection  
-- Common attacks targeting authentication systems  
-- Real-world implementation of authentication techniques  
-- Technical presentation and communication skills  
-
----
-
-## 📖 Based On
-- Cryptography and Network Security Concepts  
-- Authentication and Access Control Principles  
+#Cybersecurity #Cryptography #NetworkSecurity #CNS #DigitalSecurity
